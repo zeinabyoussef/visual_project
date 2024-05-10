@@ -1,0 +1,163 @@
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+E:\project_visual\Project_visual\Project_visual\bin\Debug\Project_visual.exe.config
+E:\project_visual\Project_visual\Project_visual\bin\Debug\Project_visual.exe
+E:\project_visual\Project_visual\Project_visual\bin\Debug\Project_visual.pdb
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.exe
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.pdb
+E:\project_visual\Project_visual\Project_visual\bin\Debug\Bunifu_UI_v1.52 (3).dll
+E:\project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.CopyComplete
+E:\project_visual\Project_visual\Project_visual\bin\Debug\BDLIM.mdf
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\bin\Debug\BDLIM.mdf
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\bin\Debug\Project_visual.exe.config
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\bin\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\bin\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.SuggestedBindingRedirects.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.CopyComplete
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\Project_visual\obj\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\bin\Debug\Project_visual.exe.config
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\bin\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\bin\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.SuggestedBindingRedirects.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.CopyComplete
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\Visual programming\Project_visual\Project_visual\obj\Debug\Project_visual.pdb
+E:\Project_visual\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+E:\Project_visual\Project_visual\obj\Debug\Project_visual.exe
+E:\Project_visual\Project_visual\obj\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.SuggestedBindingRedirects.cache
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM.mdf
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM_log.ldf
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe.config
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.CopyComplete
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDCAT.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DADD.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DEDIT.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ERRORINSERT.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DDELETE.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDBOOKS.resources
+D:\FCI\Level 3\2nd Term\Visual programming\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DETBOOKS.resources
+F:\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM.mdf
+F:\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM_log.ldf
+F:\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe.config
+F:\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe
+F:\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.pdb
+F:\visual project1\visual project1\Project_visual\bin\Debug\Bunifu_UI_v1.52 (3).dll
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDBOOKS.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDCAT.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DADD.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DDELETE.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DEDIT.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DETBOOKS.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ERRORINSERT.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_.F1BC2B10.Up2Date
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.exe
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.pdb
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAKESELL.resources
+F:\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDSTUDENT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM.mdf
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM_log.ldf
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe.config
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDSTUDENT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAKESELL.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDBOOKS.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDCAT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DADD.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DDELETE.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DEDIT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DETBOOKS.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ERRORINSERT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_.F1BC2B10.Up2Date
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_BORROW.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDUSER.resources
+D:\FCI\Level 3\2nd Term\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_LOGIN.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM.mdf
+F:\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM_log.ldf
+F:\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe.config
+F:\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe
+F:\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.pdb
+F:\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Bunifu_UI_v1.52 (3).dll
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDSTUDENT.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDUSER.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_BORROW.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_LOGIN.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAKESELL.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDBOOKS.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDCAT.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DADD.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DDELETE.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DEDIT.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ERRORINSERT.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_.F1BC2B10.Up2Date
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.exe
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.pdb
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_START.resources
+F:\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_REPORTS.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM.mdf
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\DBLIBM_log.ldf
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe.config
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\bin\Debug\Project_visual.pdb
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.AssemblyReference.cache
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDSTUDENT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDUSER.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_BORROW.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_LOGIN.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAKESELL.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDBOOKS.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ADDCAT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DADD.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DDELETE.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_DEDIT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_ERRORINSERT.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_MAIN.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_REPORTS.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.PL.FRM_START.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.Properties.Resources.resources
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.GenerateResource.cache
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.csproj.CoreCompileInputs.cache
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_.F1BC2B10.Up2Date
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.exe
+D:\FCI\Level 3\2nd Term\visual project1-3-1\visual project1-3\visual project1\visual project1\Project_visual\obj\Debug\Project_visual.pdb

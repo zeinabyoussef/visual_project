@@ -1,0 +1,32 @@
+﻿CREATE PROCEDURE PR_LOADBOOKFORSELL
+	
+AS
+	SELECT ID,TITLE from BOOKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
